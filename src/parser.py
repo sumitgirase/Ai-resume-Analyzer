@@ -32,5 +32,5 @@ def extract_text(file) -> str:
 
 if __name__ == "__main__":
     # Quick manual test: put a PDF in the project folder and change the name
-    with open("test_resume.pdf", "rb") as f:
+    with open("TCS_resume.pdf", "rb") as f:
         print(extract_text(f)[:500])
