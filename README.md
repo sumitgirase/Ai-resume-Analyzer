@@ -5,7 +5,7 @@
 
 Upload your resume and paste a job description to get a match score, matching and missing skills, and specific suggestions for improving your resume.
 
-![Results](screenshots/results.png)
+![Results](Screenshot 2026-10-12 170938.png)
 
 ## Features
 
