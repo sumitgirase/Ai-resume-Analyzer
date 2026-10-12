@@ -30,6 +30,8 @@ Scoring guide:
 - 50-69: partial match, notable gaps
 - below 50: weak match
 
+For matching_skills and missing_skills, list only concrete technical skills, tools, and technologies (e.g. Python, SQL, Docker), not soft skills.
+
 Base everything only on the text provided. Do not invent experience."""
 
 
